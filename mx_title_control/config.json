@@ -1,0 +1,33 @@
+{
+	"title": "EEC.MS",
+	"tagline": "Channel *Title - Fully Under Your Control",
+	"image": false,
+	"theme": "blue",
+	"colors": {
+        "sidebar-background": "#f7f7f7",
+        "sidebar-hover": "#c5c5cb",
+        "lines": "#e7e7e9",
+        "dark": "#3f4657",
+        "light": "#5e95cc",
+        "light-text": "#82becd",
+        "text": "#2d2d2d",
+        "syntax-string": "#022e99",
+        "syntax-comment": "#84989b",
+        "syntax-number": "#2f9b92",
+        "syntax-label": "#840d7a"
+        
+    },
+	"date_modified": true,
+	"repo": false,
+	"float": false,
+	"twitter": ["max_lazar", "eecms"],
+	"google_analytics": "",
+	"links": {
+		"Download": "http://www.eec.ms/add-ons/mx-title-control",
+		"Help/Support/Bugs": "http://www.eec.ms/support",
+		"Made by Max Lazar": "http://maxlazar.me"
+	},
+    "ignore": {
+            "folders": ["images"]
+    }
+}
