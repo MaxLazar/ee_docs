@@ -7,3 +7,8 @@
 *.js
 *.php
 *.json
+less/*
+libs/*
+js/*
+css/*
+img/*
