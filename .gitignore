@@ -1,0 +1,14 @@
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+*.js
+*.php
+*.json
+less/*
+libs/*
+js/*
+css/*
+img/*

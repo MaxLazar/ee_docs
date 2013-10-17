@@ -1,0 +1,6 @@
+	{exp:mx_jumper:out_global random}
+	{city}
+	....
+	.....
+	{exp:mx_jumper:put name="city"}City{/exp:mx_jumper:put} 
+	{/exp:mx_jumper:out_global} 
